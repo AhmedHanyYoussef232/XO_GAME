@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/server/dist/run871226395/lib/derby.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/dist/run871226395/lib/mysql-connector-java-5.1.23-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/dist/run871226395/lib/derbynet.jar!/" />
+      <root url="jar://$PROJECT_DIR$/server/dist/run871226395/lib/derbyclient.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
